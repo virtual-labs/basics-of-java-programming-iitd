@@ -12,10 +12,73 @@
   "introduction": "",
   "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
-      "tag": "v1.0.0",
+      "name": "Introduction to Java programming language",
+      "short-name": "introduction-java",
+      "repo": "https://github.com/virtual-labs/exp-introduction-java-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Creating Classes and their Objects in Java",
+      "short-name": "classes-objects",
+      "repo": "https://github.com/virtual-labs/exp-classes-objects-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Using constructors to create objects",
+      "short-name": "constructors",
+      "repo": "https://github.com/virtual-labs/exp-constructors-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "To understand the inheritance in Java",
+      "short-name": "inheritance",
+      "repo": "https://github.com/virtual-labs/exp-inheritance-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Implementing Method Overloading",
+      "short-name": "method-overloading",
+      "repo": "https://github.com/virtual-labs/exp-method-overloading-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Implementing Method Overriding",
+      "short-name": "method-overriding",
+      "repo": "https://github.com/virtual-labs/exp-method-overriding-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Learning of abstraction through Interface",
+      "short-name": "abstraction",
+      "repo": "https://github.com/virtual-labs/exp-abstraction-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Learning of Encapsulation through Package",
+      "short-name": "encapsulation",
+      "repo": "https://github.com/virtual-labs/exp-encapsulation-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Handling Exceptions in Java",
+      "short-name": "exceptions",
+      "repo": "https://github.com/virtual-labs/exp-exceptions-iitd",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Understanding Life cycle of a Thread",
+      "short-name": "life-cycle-thread",
+      "repo": "https://github.com/virtual-labs/exp-life-cycle-thread-iitd",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
