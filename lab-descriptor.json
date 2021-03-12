@@ -4,12 +4,12 @@
     "name": "Computer Science and Engineering",
     "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
   },
-  "lab": " Lab",
+  "lab": "Basics of Java Programming",
   "deployLab": true,
   "phase": 3,
   "collegeName": "IITD",
-  "baseUrl": "",
-  "introduction": "",
+  "baseUrl": "java-iitd.vlabs.ac.in",
+  "introduction": "In this Java Programming Language Virtual Lab, the student will get the feel of the real lab through the virtual version of real lab components. The Preview Tab consisting of Simulator, Syntax, and Output Sections will act like the Projector Screen which will show the concepts of different components of a java program in preview mode. After getting the essence of how the java program works, student can insert the Code Syntax of any particular component by clicking the Add button given for the same. After inserting the code for all the components of a Java program, student can see the output for the inserted code in Output Section. After learning the Code Syntax, the Write Code section of Editor Tab will make a student feel like writing code in real labs. Students can write code in here with the flexibility of making mistakes for which correction suggestion will also be provided by the Simulator. After rectifying the mistakes in the code the Simulator will show the output which gives a complete feel of the lab to the student.",
   "experiments": [
     {
       "name": "Introduction to Java programming language",
@@ -90,12 +90,15 @@
       "MS/Ph. D. Beginners in Computer Science Engineering/Information Technology"
     ]
   },
-  "objective": ".",
+  "objective": "- Understand: Describe the Structure of Basic Java Programme. <br/>- Apply: Identity different components of a java programme. <br/>- Analyze: Develop basic java programmes using different concepts.",
   "courseAlignment": {
-    "description": "The lab contents are chosen such that it covers the syllabi of  Lab",
+    "description": "The lab contents are chosen such that it covers the syllabi of Basics of Java Programming Lab",
     "universities": [
-      "",
-      ""
+      "Savitribai Phule Pune University, Maharashtra",
+      "Rajiv Gandhi Technical University, Madhya Pradesh Punjab University, Chandigarh",
+      "Gujarat Technological University (Gtu), Gujarat University of Calcutta, West Bengal",
+      "National Institute of Technology, Kurukshetra, Haryana",
+      "National Institute of Technology Tiruchirappalli, Tamil Nadu"
     ]
   },
 }
