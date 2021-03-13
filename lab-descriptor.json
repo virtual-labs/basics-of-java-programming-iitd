@@ -3,12 +3,12 @@
     "name": "Computer Science and Engineering",
     "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
   },
-  "lab": "Basics of Java Programming",
+  "lab": "Core Java Programming",
   "deployLab": true,
   "phase": 3,
   "collegeName": "IITD",
   "baseUrl": "java-iitd.vlabs.ac.in",
-  "introduction": "In this Java Programming Language Virtual Lab, the student will get the feel of the real lab through the virtual version of real lab components. The Preview Tab consisting of Simulator, Syntax, and Output Sections will act like the Projector Screen which will show the concepts of different components of a java program in preview mode. After getting the essence of how the java program works, student can insert the Code Syntax of any particular component by clicking the Add button given for the same. After inserting the code for all the components of a Java program, student can see the output for the inserted code in Output Section. After learning the Code Syntax, the Write Code section of Editor Tab will make a student feel like writing code in real labs. Students can write code in here with the flexibility of making mistakes for which correction suggestion will also be provided by the Simulator. After rectifying the mistakes in the code the Simulator will show the output which gives a complete feel of the lab to the student.",
+  "introduction": "Welcome to Core Java Programming Virtual Lab<br/><br/>Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages. <br/><br/> It is a general-purpose programming language intended to let application developers write once, run anywhere (WORA) meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.<br/><br/>The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages.<br/><br/> There were five primary goals in the creation of the Java language: <br/>1. It must be simple, object-oriented, and familiar.<br/>2. It must be robust and secure.<br/>3. It must be architecture-neutral and portable.<br/>4. It must execute with high performance.<br/>5. It must be interpreted, threaded, and dynamic.<br/>",
   "experiments": [
     {
       "name": "Introduction to Java programming language",
@@ -83,19 +83,22 @@
   ],
   "targetAudience": {
     "UG": [
-      "B. Tech./ B.E in Computer Science Engineering/Information Technology"
+      "Under Graduate students of B.E./B.Tech./B.C.A./B.Sc.(CS/IT)"
     ],
     "PG": [
-      "MS/Ph. D. Beginners in Computer Science Engineering/Information Technology"
+      "Post Graduate students of M.E./M.Tech./M.C.A./M.Sc.(CS/IT)",
+      "Research Scholars of CS/IT faculty of various institutes and universities"
     ]
   },
-  "objective": "- Understand: Describe the Structure of Basic Java Programme. <br/>- Apply: Identity different components of a java programme. <br/>- Analyze: Develop basic java programmes using different concepts.",
+  "objective": "Objectives of Core Java Programming Virtual Lab is to enable student to understand and implement various concepts of Java programming language.<br/><br/>After performing the experiments in the lab students should be able to: <br/>- List the editors used for creating java programs.<br/>- Describe the Structure of java programs.<br/>- Identify different keywords available in java programming language.<br/>- Compare and use the various java keywords for writing java programs.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of Basics of Java Programming Lab",
     "universities": [
       "Savitribai Phule Pune University, Maharashtra",
-      "Rajiv Gandhi Technical University, Madhya Pradesh Punjab University, Chandigarh",
-      "Gujarat Technological University (Gtu), Gujarat University of Calcutta, West Bengal",
+      "Rajiv Gandhi Technical University, Madhya Pradesh",
+      "Punjab University, Chandigarh",
+      "Gujarat Technological University Gujarat,"
+      "Gujarat University of Calcutta, West Bengal",
       "National Institute of Technology, Kurukshetra, Haryana",
       "National Institute of Technology Tiruchirappalli, Tamil Nadu"
     ]
