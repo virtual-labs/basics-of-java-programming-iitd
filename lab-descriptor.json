@@ -82,9 +82,7 @@
     }
   ],
   "targetAudience": {
-    "UG": [
-      "Under Graduate students of B.E./B.Tech./B.C.A./B.Sc.(CS/IT)"
-    ],
+    "UG": ["Under Graduate students of B.E./B.Tech./B.C.A./B.Sc.(CS/IT)"],
     "PG": [
       "Post Graduate students of M.E./M.Tech./M.C.A./M.Sc.(CS/IT)",
       "Research Scholars of CS/IT faculty of various institutes and universities"
@@ -97,7 +95,7 @@
       "Savitribai Phule Pune University, Maharashtra",
       "Rajiv Gandhi Technical University, Madhya Pradesh",
       "Punjab University, Chandigarh",
-      "Gujarat Technological University Gujarat,"
+      "Gujarat Technological University Gujarat",
       "Gujarat University of Calcutta, West Bengal",
       "National Institute of Technology, Kurukshetra, Haryana",
       "National Institute of Technology Tiruchirappalli, Tamil Nadu"
@@ -155,5 +153,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v1.0.0"
+  "version": "v2.0.1"
 }
