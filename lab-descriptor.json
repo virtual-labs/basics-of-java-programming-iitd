@@ -28,7 +28,7 @@
       "name": "Using constructors to create objects",
       "short-name": "constructors",
       "repo": "https://github.com/virtual-labs/exp-constructors-iitd",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
@@ -153,5 +153,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v2.0.2"
+  "version": "v2.0.3"
 }
