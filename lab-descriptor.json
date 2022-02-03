@@ -154,5 +154,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v2.7.0"
+  "version": "v2.8.0"
 }
