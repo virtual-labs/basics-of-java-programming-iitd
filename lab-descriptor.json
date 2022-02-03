@@ -71,14 +71,14 @@
       "name": "Handling Exceptions in Java",
       "short-name": "exceptions",
       "repo": "https://github.com/virtual-labs/exp-exceptions-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     },
     {
       "name": "Understanding Life cycle of a Thread",
       "short-name": "life-cycle-thread",
       "repo": "https://github.com/virtual-labs/exp-life-cycle-thread-iitd",
-      "tag": "v1.0.4",
+      "tag": "v1.0.5",
       "deploy": true
     }
   ],
@@ -154,5 +154,5 @@
     },
     { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
   ],
-  "version": "v2.6.0"
+  "version": "v2.7.0"
 }
